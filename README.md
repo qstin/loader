@@ -9,6 +9,10 @@
     --`<link href='src/ai.css' type='text/css' rel='stylesheet'>`
 
 ### USAGE:
+    - To show Activity Indicator:
+        -`AI.show()`
+    - To hide Activity Indicator:
+        -`AI.hide()`
 
 ### DEPENDENCIES:
     jQuery 2.1.3+
